@@ -101,6 +101,7 @@ sye	しぇ
 syo	しょ
 
 xa	しゃ
+xi	し
 xu	しゅ
 xe	しぇ
 xo	しょ
@@ -111,6 +112,7 @@ tye	ちぇ
 tyo	ちょ
 
 ca	ちゃ
+ci	ち
 cu	ちゅ
 ce	ちぇ
 co	ちょ
@@ -161,6 +163,7 @@ zye	じぇ
 zyo	じょ
 
 ja	じゃ
+ji	じ
 ju	じゅ
 je	じぇ
 jo	じょ
@@ -340,6 +343,7 @@ syl	しょん
 
 xz	しゃん
 xn	しゃん
+xk	しん
 xj	しゅん
 xd	しぇん
 xl	しょん
@@ -352,6 +356,7 @@ tyl	ちょん
 
 cz	ちゃん
 cn	ちゃん
+ck	ちん
 cj	ちゅん
 cd	ちぇん
 cl	ちょん
@@ -412,6 +417,7 @@ zyl	じょん
 
 jz	じゃん
 jn	じゃん
+jk	じん
 jj	じゅん
 jd	じぇん
 jl	じょん
