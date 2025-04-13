@@ -203,16 +203,16 @@ dcu	どぅ
 
 wso	うぉ
 
-la	ぁ
-li	ぃ
-lu	ぅ
-le	ぇ
-lo	ぉ
-lya	ゃ
-lyu	ゅ
-lyo	ょ
+xxa	ぁ
+xxi	ぃ
+xxu	ぅ
+xxe	ぇ
+xxo	ぉ
+xxya	ゃ
+xxyu	ゅ
+xxyo	ょ
 
-;	っ
+l	っ
 q	ん
 nn	ん
 -	ー
@@ -462,16 +462,16 @@ dck	でぃん
 
 dcj	どぅん
 
-lz	ぁん
-ln	ぁん
-lk	ぃん
-ld	ぇん
-ll	ぉん
+xxz	ぁん
+xxn	ぁん
+xxk	ぃん
+xxd	ぇん
+xxl	ぉん
 
-lyz	ゃん
-lyn	ゃん
-lyj	ゅん
-lyl	ょん
+xxyz	ゃん
+xxyn	ゃん
+xxyj	ゅん
+xxyl	ょん
 
 kq	かい
 kh	くう
@@ -650,14 +650,14 @@ wq	わい
 ww	うぇい
 wp	うぉー
 
-lq	ぁい
-lh	ぅう
-lw	ぇい
-lp	ぉう
+xxq	ぁい
+xxh	ぅう
+xxw	ぇい
+xxp	ぉう
 
-lyq	ゃい
-lyh	ゅう
-lyp	ょう
+xxyq	ゃい
+xxyh	ゅう
+xxyp	ょう
 
 kf	き
 jf	じゅ
