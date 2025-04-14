@@ -854,32 +854,21 @@ zv	ざい
 zf	ぜ
 zx	ぜい
 
-kt	こと
-wt	わた
-km	かも
-sr	する
-rr	られ
-nb	ねば
-nt	にち
-st	した
-tm	ため
-tr	たら
-zr	ざる
-bt	びと
-dt	だち
-tt	たち
-ms	ます
-dm	でも
-nr	なる
-mt	また
-gr	がら
-wr	われ
-ht	ひと
 ds	です
-kr	から
-yr	よる
-tb	たび
-gt	ごと
+dx	でした
+ms	ます
+mx	ました
+
+kr	くる
+kt	きた
+sr	する
+st	した
+nr	なる
+nt	なった
+yr	やる
+yt	やった
+dr	である
+dt	だった
 
 Z	あん
 N	あん
