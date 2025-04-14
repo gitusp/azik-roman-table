@@ -256,6 +256,7 @@ hd	へん
 hl	ほん
 
 mz	まん
+mn	まん
 mk	みん
 mj	むん
 md	めん
@@ -861,7 +862,6 @@ rr	られ
 nb	ねば
 nt	にち
 st	した
-mn	もの
 tm	ため
 tr	たら
 zr	ざる
