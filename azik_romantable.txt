@@ -861,6 +861,8 @@ sr	する
 st	した
 nr	なる
 yr	やる
+rr	れる
+rt	れた
 dkr	できる
 dkt	できた
 
