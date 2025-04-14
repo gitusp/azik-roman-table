@@ -853,20 +853,14 @@ zf	ぜ
 zx	ぜい
 
 ds	です
-dx	でした
 ms	ます
-mx	ました
 
 kr	くる
 kt	きた
 sr	する
 st	した
 nr	なる
-nt	なった
 yr	やる
-yt	やった
-dr	である
-dt	だった
 dkr	できる
 dkt	できた
 
