@@ -295,6 +295,7 @@ zl	ぞん
 
 dz	だん
 dn	だん
+dk	ぢん
 dj	づん
 dd	でん
 dl	どん
@@ -851,20 +852,6 @@ zc	ざ
 zv	ざい
 zf	ぜ
 zx	ぜい
-
-ds	です
-ms	ます
-
-kr	くる
-kt	きた
-sr	する
-st	した
-nr	なる
-yr	やる
-rr	れる
-rt	れた
-dkr	できる
-dkt	できた
 
 ->	→
 <-	←
